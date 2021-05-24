@@ -16,12 +16,12 @@ img {
     margin: auto;
     text-align: justify;
     max-width: 40em;
-    padding: 1em;
+    padding: 2em;
 }
 
 /* todo - tidy up */
 .button {
-    background-color: #34A853; 
+    background-color: #DB4437; 
     border: none;
     color: white;
     padding: 15px 32px;
@@ -37,5 +37,10 @@ img {
   }
 
   body {
-      background-color: #FFCDD2;
+      background-color: #0F9D58;
+  }
+
+  h1,h2,h3
+  {
+    color: #4285F4
   }
